@@ -1,4 +1,4 @@
-# 競プロ典型 90 を解
+# 競プロ典型 90 を解いて学ぶ
 
 https://atcoder.jp/contests/typical90
 

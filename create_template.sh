@@ -20,5 +20,5 @@ cp ../XXX/XXX_test.go ${QNUM}_test.go
 cp ../XXX/sample_input.txt sample_input.txt
 cp ../XXX/sample_result.txt sample_result.txt
 
-go mod init github.com/lamlam/goatcoder/tenkei90/$QNUM
+go mod init github.com/lamlam/tenkei90/$QNUM
 
