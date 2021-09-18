@@ -9,3 +9,4 @@ https://atcoder.jp/contests/typical90
 | 003  | x            |
 | 004  | o            |
 | 005  | x            |
+| 006  | x            |
